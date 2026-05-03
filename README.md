@@ -52,7 +52,7 @@ The following is documentation of the program execution results showing the perf
    ![Decision Tree Result](hasil_decision_tree.png)
 Classification output using Decision Tree. It shows the accuracy resulting from hierarchical data division.
 
-3.	Evaluation of the Naive Bayes Model
+2.	Evaluation of the Naive Bayes Model
    
 ![Naive Bayes Result](hasil_naive_bayes.png)
  
@@ -63,11 +63,12 @@ Results from Naive Bayes. This model shows fairly stable performance even with a
    ![SVM Result](hasil_svm.png)
  SVM performance after data standardization. It typically shows very competitive results on numerical datasets like this.
 
-5.	Overall Metrics Comparison
+4.	Overall Metrics Comparison
    
  ![Model Comparison](hasil_perbandingan_kompleks.png)
 Summary tables and graphs comparing the performance of the three models head-to-head to determine the best model.
 
 Conclusion
+
 Among the evaluated models, the Decision Tree achieved the highest accuracy in this experiment. However, SVM also demonstrated strong performance, while Naive Bayes provided a fast and efficient baseline.
 
